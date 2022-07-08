@@ -1,6 +1,6 @@
 
-const uriCards = 'http://13.38.8.44:1337/api/posts?populate=*'
-const domain = 'http://13.38.8.44:1337'
+const uriCards = 'http://13.38.8.44/api/posts?populate=*'
+const domain = 'http://13.38.8.44'
 
 function Projects({data}){
   let posts = data.data

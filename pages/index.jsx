@@ -1,4 +1,4 @@
-const uriCards = 'http://13.38.8.44:1337/api/posts?populate=*'
+const uriCards = 'http://13.38.8.44/api/posts?populate=*'
 
 import Link from 'next/link';
 import Image from 'next/image'
